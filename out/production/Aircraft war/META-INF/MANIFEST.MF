@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Main-Class: Main
+Class-Path: mchange-commons-java-0.2.20.jar commons-logging-1.2.jar poi-
+ 5.0.0.jar c3p0-0.9.5.5.jar commons-math3-3.6.1.jar mysql-connector-java
+ -8.0.26.jar JTattoo-1.6.13.jar
+
